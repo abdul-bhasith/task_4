@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(119, 216, 184);
+
+}
+.groove{
+    border-style: groove;
+    /* margin: auto; */
+    /* width: 50%; */
+    /* padding: 100px; */
+
+}
+.textalign{
+    text-align: center;
+}
+.font{
+    font-style: oblique;
+    font-family:fantasy;
+    font-weight:500;
+    font-size: medium;
+}
+.color{
+    color: rgb(221, 4, 185);
+}
